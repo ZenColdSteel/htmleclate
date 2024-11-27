@@ -1,0 +1,37 @@
+h1{
+    color: purple;
+    background-color: darkturquoise;
+}
+h2{
+    color:blue;
+     background-color:crimson
+}
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    background-color: salmon;
+
+}
+p{
+    color: brown;
+}
+table{
+    border: 2px solid black;
+}
+th{
+    border: 2px solid black;
+}
+td{
+    border: 2px solid black;
+}
+.sharingan{
+    color:darkgreen
+}
+.ryuk{
+    
+   font-size: 300px;
+
+}
+.kira{
+    background-color: grey;
+}
